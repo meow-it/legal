@@ -1,4 +1,3 @@
-import Image from "next/image"
 import styles from "./layout.module.css"
 import authorStyles from "./author.module.css"
 import utilStyles from "../styles/utils.module.css"
@@ -12,14 +11,7 @@ export default function Author() {
 				<a>
 					<div className={styles.authorContainer}>
 						<div className="authorImageContainer">
-							<Image
-								priority
-								src="/images/profile.png"
-								className={styles.borderCircle}
-								height={40}
-								width={40}
-								alt={appName}
-							/>
+							<img src="/images/profile.png" height={40} width={40} alt={appName} className={styles.borderCircle} />
 						</div>
 
 						<div className="authorNameContainer">
