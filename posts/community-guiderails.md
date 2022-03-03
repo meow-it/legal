@@ -4,7 +4,7 @@ date: "2022-02-25"
 ---
 
 # 👋 Introduction
-Meow It is where communities are free to be authentic, equal, and empowered to connect with people nearby. So that all cats can enjoy the ride, Meow It has set up some guardrails for your safety. Make sure to read the full [Terms of Service](./terms-of-use.md) and [Privacy Policy](./privacy-policy.md) as well, as the guardrails are a summary and not meant to supplant the full terms. Also, this is a public forum and your meows are public. You are responsible for your meows and their consequences and your interactions with other cats in the clowder. We urge you to be cautious about your interactions.
+Meow It is where communities are free to be authentic, equal, and empowered to connect with people nearby. So that all cats can enjoy the ride, Meow It has set up some guardrails for your safety. Make sure to read the full [Terms of Service](./terms-of-use) and [Privacy Policy](./privacy-policy) as well, as the guardrails are a summary and not meant to supplant the full terms. Also, this is a public forum and your meows are public. You are responsible for your meows and their consequences and your interactions with other cats in the clowder. We urge you to be cautious about your interactions.
 
 Meow It protects your privacy so that you can be authentic. While your personal privacy is always protected and only disclosed as required by and within the bounds of the law, boundaries on Meow It exist to ensure everyone feels welcomed and stays safe.
 
